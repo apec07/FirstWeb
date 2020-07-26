@@ -35,7 +35,10 @@ title="My Practice" target="_blank">Lesson 1(text-Start)</a>
   下載Windows上的最新版Firefox (64-bit) (English, US)
 </a>
 </p>
-
+<hr>
+<a href="debug/example1.html" title="debug_ex1" target="_blank">Debug Example1</a><br>
+<a href="letter/letter1.html" title="letter1" target="_blank">Format My Letter - 1</a>
+<hr>
 <p><img src=
 "https://raw.githubusercontent.com/mdn/
 beginner-html-site/gh-pages/images/firefox-icon.png"></p>
