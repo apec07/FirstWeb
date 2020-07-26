@@ -25,8 +25,10 @@
 
 <!--  this is my comment   -->
 <a href="../FirstWeb/text-start.html" 
-title="My Practice" target="_blank">P1</a>
-<a href="text-format.html" title="Advance Formatting" target="_blank">P2</a>
+title="My Practice" target="_blank">Lesson 1(text-Start)</a>
+<a href="text-format.html" title="Advance Formatting" target="_blank">Lesson 2(advance-format)</a>
+<a href="authors/ming/profile.html" title="Advance Formatting" target="_blank">Profile(advance-format)</a>
+<p><a href="layout/structure.html" title="Layout" target="_blank">Lesson 3(Layout)</a></p>
 <p>
 <a href="https://download.mozilla.org/?product=firefox-latest-ssl&os=win64&lang=en-US"
    download="firefox-latest-64bit-installer.exe">
