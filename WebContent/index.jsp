@@ -4,7 +4,7 @@
     pageEncoding="utf-8"%>
 <!DOCTYPE html>
 
-<!-- 網頁開始html  -->
+<!-- 網頁開始HTML  -->
 <html>
 <!-- 標頭開始Head   -->
 <head>
@@ -24,7 +24,7 @@
 <p>this is my &quot;apple&quot;</p>
 
 <!--  this is my comment   -->
-<a href="../FirstWeb/text-start.html" 
+<a href="../test-site1/text-start.html" 
 title="My Practice" target="_blank">Lesson 1(text-Start)</a>
 <a href="text-format.html" title="Advance Formatting" target="_blank">Lesson 2(advance-format)</a>
 <a href="authors/ming/profile.html" title="Advance Formatting" target="_blank">Profile(advance-format)</a>
